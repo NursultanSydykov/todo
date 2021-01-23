@@ -11,3 +11,12 @@ def second(request):
 
 def third(request):
     return HttpResponse("This is page test3")
+
+def fourth(request):
+    return render(request, "index1.html")
+
+def fifth(request):
+    return render(request, "index2.html")
+
+def sixth(request):
+    return render(request, "index3.html")
