@@ -1,11 +1,17 @@
 .first_text{
     color: green;
+    padding: 20px;
+    text-align: center;
 }
 
 .second_text{
     color: yellow;
+    padding: 20px;
+    text-align: center;
 }
 
 .third_text{
     color: red;
+    padding: 20px;
+    text-align: center;
 }
